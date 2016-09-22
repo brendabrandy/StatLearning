@@ -1,7 +1,9 @@
-# StatLearning
+# Introduction
 
-git checkout -- index.html : returns file back to its original state when I last committed
+This repository serves to store a statistical learning approach to classifying network intrusions.
 
+The data set is provided by MIT Lincoln Laboratory and DARPA jointly in 1998 to simulate an attacked network of the US Air Force One Research lab.
 
-git commit -m "Example commit"
-git revert HEAD : a new commit gets appended and rolls back changes from a specific commit
+# Files
+
+Statistical Learning Data Exploration.ipynb : a data visualization of the network intrusion data along with comments and interpretation. 
